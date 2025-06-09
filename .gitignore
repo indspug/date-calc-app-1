@@ -26,3 +26,4 @@ dist-ssr
 # AWS
 bucket-policy.json
 distribution-config.json
+aws_s3_sync_update_cloudfront_cash.sh
